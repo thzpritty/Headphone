@@ -1,0 +1,251 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    padding: 0%;
+    margin: 0%;
+}
+
+  
+
+
+section{
+  margin-bottom: 90px;
+}
+.custom-navbar {
+  background-color: transparent;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+}
+
+.navbar-toggler-icon {
+  filter: invert(1);
+  
+}
+
+.outer {
+  display: flex;
+}
+
+.inner {
+  position: absolute;
+  margin-top: 244px;
+  margin-left: 139px;
+
+}
+
+.inner .hhead {
+  font-weight: 800;
+  font-size: 55px;
+
+}
+
+.inner .shead {
+  font-size: 20px;
+}
+
+.btn-raddius {
+  border-radius: 22px;
+}
+
+.btn-raddius:hover {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+.para1{
+    margin-top: 10px; 
+    text-transform: uppercase;
+    font-size:medium;
+    font-weight: bold;
+
+}
+.overlay{
+   
+    
+    color: rgb(0, 0, 0);
+    position: absolute;
+   
+  top: 40%; 
+  left: 200px; 
+  
+  font-size: 30px; 
+  text-align: left;
+}
+#para2{
+    padding: 9%;
+    padding-right: 10%;
+    display: flex;
+    justify-content: center;
+}
+.sent1{
+    padding-top: 5%;
+}
+#para3{
+   
+    color: white; 
+   font-weight: bolder;
+    background-color: #f7b048;
+    padding: 20px 0;
+    text-align: center;
+
+}
+.head2{
+    font-size: 1.5em;
+  font-weight: bold;
+  color: white;
+  margin: 0;
+  
+}
+
+.card-title{
+    position: absolute;
+    padding: .6rem;
+    padding-top: 0.6rem;
+    padding-right: 0.6rem;
+    padding-bottom: 0.6rem;
+    padding-left: 0.6rem;
+    top: 1.5rem;
+    left: 1.5rem;
+    z-index: 1;
+    border-radius: 100px;
+    background-color: #fac769;
+    font-size: smaller;
+}
+
+.container {
+    text-align:left;
+    margin-top: 50px;
+}
+.product-image {
+    
+    padding: 10px;
+    border-radius: none;
+}
+.product-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: none;
+}
+
+.first-div {
+  margin: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.second-div {
+  text-align: center;
+  color: white;
+  height: 90px;
+  background-color: #fac769;
+  padding: 20px;
+}
+
+.second-div h4 {
+  font-weight: bold;
+  font-size: 40px;
+
+}
+
+.third-div .row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  background-color: #fac769;
+  padding: 0px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: flex;
+
+}
+
+.image-over {
+  position: absolute;
+}
+
+.image-over button {
+  color: black;
+  background-color: #fac769;
+  border: none;
+  border-radius: 22px;
+  height: 41px;
+  width: 127px;
+  margin-top: 18px;
+  margin-left: 15px;
+
+}
+
+.gallery {
+  margin-top: 40px;
+}
+
+.gallery img {
+  width: 261px;
+  height: 174px;
+  padding: 5px;
+}
+
+.fourth-div {
+  background-color: #fac769;
+}
+
+.columnpadding {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.columnpadding button {
+  margin-top: 18px;
+  margin-left: 103px;
+}
+
+.title {
+  display: flex;
+}
+
+.title .num {
+
+  color: #fac769;
+  font-size: 80px;
+  font-weight: 650;
+}
+
+.title .heading {
+  position: absolute;
+  font-weight: 750;
+  margin-top: 46px;
+  margin-left: 4px;
+  font-size: 17px;
+
+}
+
+.card1 p {
+  color: #767676;
+  font-size: 15px;
+  margin-top: -20px;
+  margin-left: -10px;
+}
+
+.card1 a {
+  margin-left: -110px;
+  color: #fac769;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.map p{
+  color: #767676;
+
+}
+
+.ul-div a{
+  margin-top: 30px;
+  margin-bottom: 25px;
+
+}
